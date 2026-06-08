@@ -336,7 +336,7 @@ Para testar no celular físico, **PC e celular precisam estar na mesma rede Wi-F
 |------|-----|
 | _Rafael Jorge Del Padre_ | RM552765 |
 | _Rafael de Almeida Sigoli_ | RM554019  |
-| _Giovanna Franco Gaudino Rodrigues _ | RM553701 |
+| _Giovanna Franco Gaudino Rodrigues_ | RM553701 |
 
 ---
 
