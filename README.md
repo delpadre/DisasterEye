@@ -340,15 +340,6 @@ Para testar no celular físico, **PC e celular precisam estar na mesma rede Wi-F
 
 ---
 
-## 📦 Entrega
-
-- ✅ Código-fonte completo no repositório GitHub
-- ✅ Sem `node_modules/` no repositório
-- ✅ README preenchido com instruções, capturas e integrantes
-- ✅ Aplicação funcional em Android, iOS e Web
-- ✅ Demonstração dos conceitos trabalhados em aula
-
----
 
 <div align="center">
 
