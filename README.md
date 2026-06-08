@@ -311,17 +311,20 @@ Para testar no celular físico, **PC e celular precisam estar na mesma rede Wi-F
 
 ## 📸 Capturas de Tela
 
-> *Adicione capturas de tela do app rodando em uma pasta `docs/` na raiz do projeto.*
 
 <div align="center">
 
 | Home | Alertas | Previsão |
 |:---:|:---:|:---:|
-| ![Home](docs/home.png) | ![Alertas](docs/alerts.png) | ![Previsão](docs/forecast.png) |
+| ![Home](docs/Home.png) | ![Alertas](docs/Alertas.png) | ![Previsão](docs/Previsao.png) |
 
-| Detalhe | Globo em Chamas | Salvos |
+| Modo Claro | Detalhe | Cards |
 |:---:|:---:|:---:|
-| ![Detalhe](docs/detail.png) | ![Globo](docs/globe.png) | ![Salvos](docs/saved.png) |
+| ![Modo Claro](docs/Branco.png) | ![Detalhe](docs/Detalhe.png) | ![Cards](docs/Cards.png) |
+
+| Histórico | Globo em Chamas | Salvos |
+|:---:|:---:|:---:|
+| ![Histórico](docs/Historico.png) | ![Globo](docs/Globo.png) | ![Salvos](docs/Salvos.png) |
 
 </div>
 
@@ -331,11 +334,9 @@ Para testar no celular físico, **PC e celular precisam estar na mesma rede Wi-F
 
 | Nome | RM |
 |------|-----|
-| _Preencher_ | RM_____ |
-| _Preencher_ | RM_____ |
-| _Preencher_ | RM_____ |
-| _Preencher_ | RM_____ |
-| _Preencher_ | RM_____ |
+| _Rafael Jorge Del Padre_ | RM552765 |
+| _Rafael de Almeida Sigoli_ | RM554019  |
+| _Giovanna Franco Gaudino Rodrigues _ | RM553701 |
 
 ---
 
