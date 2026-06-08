@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "DisasterEye",
+    "slug": "disastereye-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "backgroundColor": "#0A0E1A"
+    },
+    "ios": { "supportsTablet": true },
+    "android": {
+      "adaptiveIcon": { "backgroundColor": "#0A0E1A" }
+    },
+    "web": { "bundler": "metro" }
+  }
+}
